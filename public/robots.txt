@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /estimates
+Disallow: /estimates-viewer
